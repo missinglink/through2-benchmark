@@ -1,0 +1,15 @@
+{
+  "name": "through2-benchmark",
+  "version": "1.0.0",
+  "description": "simple benchmarking to check the performance of a through2 stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "performance-now": "^2.1.0",
+    "through2": "^2.0.3"
+  }
+}
